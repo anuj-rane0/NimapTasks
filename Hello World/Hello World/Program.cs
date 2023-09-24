@@ -15,7 +15,7 @@ namespace Hello_World
             int maxNum = 0;
             int partition = 0;
 
-            Console.WriteLine("Teri maa ki chut santoshi");
+            string rand = "santoshi";
 
 
             for (int i = 0; i < array.Length - 1; i++)
