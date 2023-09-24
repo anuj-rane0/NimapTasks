@@ -15,8 +15,10 @@ namespace Hello_World
             int maxNum = 0;
             int partition = 0;
 
+            Console.WriteLine("Teri maa ki chut santoshi");
 
-            for(int i = 0; i < array.Length - 1; i++)
+
+            for (int i = 0; i < array.Length - 1; i++)
             {
                 for(int j = i+1; j < array.Length; j++)
                 {
